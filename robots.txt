@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /images/
+Sitemap: http://recode.ucc.ie/sitemap.xml.gz
+
+# 1) Deny bots those do not much benefit
+#
+User-agent: AhrefsBot
+User-agent: Amazonbot
+User-agent: Baiduspider
+User-agent: Barkrowler
+User-agent: BLEXBot
+User-agent: Bytespider
+User-agent: DomainStatsBot
+User-agent: facebookexternalhit
+User-agent: Facebot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: IonCrawl
+User-agent: linkdexbot
+User-agent: MJ12bot
+User-agent: PetalBot
+User-agent: SBSearch
+User-agent: SeekportBot
+User-agent: SemrushBot
+User-agent: SeznamBot
+User-agent: Sogou
+User-agent: SurdotlyBot
+User-agent: vuhuvBot
+User-agent: YandexBot
+User-agent: YandexImages
+Disallow: /
